@@ -5,10 +5,6 @@
   Design for people want to memorize words and practice typings.
 </p>
 
-<div align="center">
-  <img src="Screenshot.png"/>
-</div>
-
 ## 📸 Online Access
 
 We have deployed QWERTY Learner on many platforms. You can try QWERTY Learner in following ways.
