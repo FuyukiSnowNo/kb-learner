@@ -1,7 +1,3 @@
-<div align=center>
-  <img src="https://github.com/FuyukiSnowno/kb-learner/blob/master/src/assets/logo.svg"/>
-</div>
-
 <h1 align="center">
   QWERTY Learner
 </h1>
